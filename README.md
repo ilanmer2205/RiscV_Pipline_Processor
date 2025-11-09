@@ -5,3 +5,5 @@ This processor is a simple single-core pipelined processor, capable of handling 
 It cannot execute the full set of RV32I instructions, such as lb, U-type instructions, and some B-type instructions. The complete RV32I processor will be posted later.
 The purpose of this project was to learn and demonstrate the RISC-V architecture. Similar projects with single-cycle architecture and multi-cycle architectures can be found in my repositories.
 
+Pictures/RiscV_Diagram.png
+![Block_Diagram](Pictures/RiscV_Diagram.png)
